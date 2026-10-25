@@ -10,9 +10,13 @@ I built this project as part of my learning journey in Python, Artificial Intell
 
 ## 🚀 Live Dashboard
 
-Try the application here:
+**Try the live application here:**
 
 [**Open Image Recognition Quality Control Dashboard**](https://image-recognition-quality-control-zscgg4n7gbxk64ifvwhthmr.streamlit.app/)
+
+Upload a product image to analyze its brightness, sharpness, blur, and edge density for quality inspection.
+
+> Note: The dashboard is hosted on Streamlit Community Cloud.
 
 
 ## What Can You Do With It?
