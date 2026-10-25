@@ -8,10 +8,12 @@ This project uses image analysis to check basic quality indicators such as brigh
 
 I built this project as part of my learning journey in Python, Artificial Intelligence, and Machine Learning.
 
-🚀 Live Dashboard
+## 🚀 Live Dashboard
 
 Try the application here:
-image-recognition-quality-control-zscgg4n7gbxk64ifvwhtmr
+
+[**Open Image Recognition Quality Control Dashboard**](https://image-recognition-quality-control-zscgg4n7gbxk64ifvwhthmr.streamlit.app/)
+
 
 ## What Can You Do With It?
 
