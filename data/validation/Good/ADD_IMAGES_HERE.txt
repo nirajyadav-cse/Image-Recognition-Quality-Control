@@ -1,0 +1,1 @@
+Add separate validation images of acceptable products to this folder.

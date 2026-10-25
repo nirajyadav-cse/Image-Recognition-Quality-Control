@@ -1,0 +1,1 @@
+Add labelled images of defective products to this folder. This text file is only a placeholder; the training script needs image files.
