@@ -8,6 +8,12 @@ This project uses image analysis to check basic quality indicators such as brigh
 
 I built this project as part of my learning journey in Python, Artificial Intelligence, and Machine Learning.
 
+🚀 Live Dashboard
+
+Try the application here:
+
+Open Image Recognition Quality Control Dashboard
+
 ## What Can You Do With It?
 
 - Upload a product image for inspection.
